@@ -1,0 +1,17 @@
+.add-todo-input {
+  width: 100%;
+  height: 36px;
+  font-size: 18px;
+  margin: 3vw 0 1vw 0;
+  border: 1px solid #ddd;
+}
+.add-todo-submit {
+  width: 100px;
+  height: 38px;
+  font-size: 18px;
+  margin: 0 0 38px 0;
+  background: #037dff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}

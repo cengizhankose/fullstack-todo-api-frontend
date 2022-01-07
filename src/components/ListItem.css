@@ -1,0 +1,21 @@
+.list-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #ddd;
+  padding: 20px;
+  font-size: 16px;
+}
+.list-item-checkbox {
+  margin-right: 2vw;
+}
+.list-item-delete-button {
+  width: 100px;
+  height: 38px;
+  font-size: 18px;
+  background: #db3648;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}

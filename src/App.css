@@ -1,0 +1,12 @@
+.form-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5vw 10vw;
+  margin-top: 100px;
+}
+h1 {
+  font-size: 48px;
+  font-weight: 600;
+}
